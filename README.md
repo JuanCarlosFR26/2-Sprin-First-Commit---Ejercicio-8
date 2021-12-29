@@ -1,5 +1,9 @@
 # Getting Started with Create React App
+Ejercicio 8
+Para estos ejercicios deberás realizar los mismos que en la fase 1 pero utilizando ReactJS.
 
+
+Ejercicio 8. Carga un fichero PDF y visualízalo en el perfil.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
